@@ -1,2 +1,2 @@
-# scroll_animation
+# Scroll animation
 Week of projects
